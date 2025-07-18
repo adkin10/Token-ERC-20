@@ -1,8 +1,8 @@
-# AdamToken (AT) – Minimalna implementacja tokena ERC-20 w Solidity
+# AdamToken (AT) – Basic ERC-20 Token Implementation in Solidity
 
-**AdamToken** to własny, edukacyjny token zgodny ze standardem ERC-20, stworzony w języku **Solidity** na platformę **Ethereum**.
+**AdamToken** is a custom, educational token compliant with the ERC-20 standard, developed in **Solidity** for the **Ethereum** platform.
 
-## 📋 Opis
+## 📋 Description
 
-Projekt przedstawia kompletną implementację tokena ERC-20, umożliwia podstawowe operacje takie jak: emisja, transfery, autoryzacja oraz obsługę zdarzeń blockchain. Kod spełnia wymagania standardu ERC-20 i może być wdrożony na testowej lub głównej sieci Ethereum.
+This project presents a complete implementation of the ERC-20 token standard, enabling basic operations such as token issuance, transfers, authorization, and blockchain event handling. The code meets all ERC-20 requirements and can be deployed on either a test or the main Ethereum network.
 
